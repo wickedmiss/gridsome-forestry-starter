@@ -24,7 +24,7 @@ sections:
 - type: heading
   label: Whatcha
 - type: document
-  path: whatchusayin
+  path: whatchusayin.md
   label: Whatchusayin
 upload_dir: uploads
 public_path: "/uploads"

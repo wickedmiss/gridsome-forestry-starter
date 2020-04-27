@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
-- type: document
-  path: whatchusayin
-  label: Whatchusayin
 - type: directory
   path: projects
   label: Projects
@@ -24,6 +21,11 @@ sections:
 - type: document
   path: data/theme.json
   label: Theme config
+- type: heading
+  label: Whatcha
+- type: document
+  path: whatchusayin.js
+  label: Whatchusayin
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

@@ -8,7 +8,7 @@ sections:
   path: dame
   label: Dame
   create: all
-  match: "**/*"
+  match: "**/*.md"
 - type: directory
   path: projects
   label: Projects

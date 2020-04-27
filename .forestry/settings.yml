@@ -7,7 +7,6 @@ sections:
 - type: document
   path: whatchusayin
   label: Whatchusayin
-  match: "**/*"
 - type: directory
   path: projects
   label: Projects
